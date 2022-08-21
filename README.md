@@ -23,3 +23,7 @@ Also identified within the datasets provided, there is a clear correlation betwe
 ![Poster](https://github.com/finnster145/Triaid/blob/main/Slides/001.png)
 
 Overall, our solution is to provide a centralised portal to assist the community to make informed decisions before they attend to the emergency room. It can be scaled to accommodate the language needs of users if necessary. We believe that Triad is a great option to assist in diverting unnecessary traffic away from the Emergency Departments and into the appropriate health care services that are resourced to handle more people thus easing the burden on the overall Hospital system. 
+
+
+<H3> Meet the Team! </H3>
+![team](https://github.com/finnster145/Triaid/blob/main/Slides/The%20team.PNG)
