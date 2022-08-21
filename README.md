@@ -1,4 +1,4 @@
-![Triaid](https://github.com/finnster145/Triaid/blob/main/Slides/logo.PNG)
+                            ![Triaid](https://github.com/finnster145/Triaid/blob/main/Slides/logo.PNG)
 
 <H2>How can we use available technologies to support people’s health needs and stay out of hospital?</H2>
 
