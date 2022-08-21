@@ -1,6 +1,6 @@
 # Triaid
 
-<H1>How can we use available technologies to support people’s health needs and stay out of hospital?</H1>
+<H2>How can we use available technologies to support people’s health needs and stay out of hospital?</H2>
 
 
 Living in a post pandemic world, the Northern Territory government is attempting to tackle a health care crisis that is causing major delays and stress on the nationwide system. This has ultimately resulted in 18,000 avoidable deaths each year. 
