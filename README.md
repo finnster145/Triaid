@@ -26,4 +26,5 @@ Overall, our solution is to provide a centralised portal to assist the community
 
 
 <H3> Meet the Team! </H3>
-![team](https://github.com/finnster145/Triaid/blob/main/Slides/The%20team.PNG)
+
+![Team](https://github.com/finnster145/Triaid/blob/main/Slides/The%20team.PNG)
