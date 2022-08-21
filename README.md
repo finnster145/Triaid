@@ -7,7 +7,7 @@ Living in a post pandemic world, the Northern Territory government is attempting
 So how are we able to reduce this number and ease the burden on the healthcare system? 
 Well, our team has identified a common trend leading to 9% of all ED visits being unnecessary which ultimately resulted in many delays. To combat this, our team has designed an application and brochure to facilitate emergency department visits to ensure the community is making use of the appropriate resource for their injury or illness. Using our application, Triaid will make use of existing technologies to direct users to the correct resource which will assist in alleviating the stress within the emergency department and thus providing access to those that truly need it. Our application is very simple yet effective, the dominant feature within the app is the symptoms checker. 
 
-![test](https://github.com/finnster145/Triaid/blob/main/6.jpg?raw=true)
+!test(https://github.com/finnster145/Triaid/blob/main/Slides/6.png)
 
 
 
