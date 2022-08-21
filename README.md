@@ -15,4 +15,6 @@ Using this tool, users will be able to enter in their current symptoms to determ
 
 Also identified within the datasets provided, there is a clear correlation between ED visits and low socio-economic status as well as with age. Therefore, we have also decided to opt for developing a physical poster that can be distributed to households across the territory. This poster is a simple to follow visual that will indicate to users on when to visit the ED and when not to visit the ED. Within this poster are the correct phone numbers to call if the user is unsure or is need of immediate medical attention. 
 
+![Poster](https://github.com/finnster145/Triaid/blob/main/Slides/001.png)
+
 Overall, our solution is to provide a centralised portal to assist the community to make informed decisions before they attend to the emergency room. It can be scaled to accommodate the language needs of users if necessary. We believe that Triad is a great option to assist in diverting unnecessary traffic away from the Emergency Departments and into the appropriate health care services that are resourced to handle more people thus easing the burden on the overall Hospital system. 
